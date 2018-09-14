@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "393875368903",
+    "firebase_url": "https://kejaapp-486a9.firebaseio.com",
+    "project_id": "kejaapp-486a9",
+    "storage_bucket": "kejaapp-486a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393875368903:android:5eb92e5d7e330d71",
+        "android_client_info": {
+          "package_name": "com.example.ireribrian.apartments"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393875368903-jpuq450hao1u7j7vc0lr4rrfh2m12hd3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQDqIkucm9gLJ2FAFhn93Vvk3a9yQvx1s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

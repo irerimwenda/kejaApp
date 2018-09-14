@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/new_property"
+            android:icon="@drawable/ic_whatshot_black_24dp"
+            android:title="New Property" />
+        <item
+            android:id="@+id/most_rated"
+            android:icon="@drawable/ic_star_black_24dp"
+            android:title="Most Rated" />
+        <item
+            android:id="@+id/my_account"
+            android:icon="@drawable/ic_card_travel_black_24dp"
+            android:title="My Account" />
+        <item
+            android:id="@+id/post_property"
+            android:icon="@drawable/ic_create_black_24dp"
+            android:title="Post Property" />
+    </group>
+
+    <item android:title="--------------------------------">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_help"
+                android:icon="@drawable/ic_help_outline_black_24dp"
+                android:title="Help" />
+        </menu>
+    </item>
+
+</menu>
